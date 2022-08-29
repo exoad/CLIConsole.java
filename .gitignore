@@ -2,3 +2,5 @@
 build
 .vscode
 .settings
+/app/bin
+*.class
