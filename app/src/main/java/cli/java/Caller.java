@@ -1,4 +1,4 @@
-package com.jackmeng.clijava;
+package cli.java;
 
 import java.io.PrintStream;
 import java.util.ArrayList;
@@ -27,7 +27,7 @@ public class Caller {
 
   private void __precheck_cmd(String command) {
     if(command.equals(__caller_properties.get(KEY_DEFAULT_HELP_CMD))) {
-      
+
     }
   }
 

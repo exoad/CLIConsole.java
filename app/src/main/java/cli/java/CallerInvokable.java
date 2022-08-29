@@ -1,4 +1,4 @@
-package com.jackmeng.clijava;
+package cli.java;
 
 public interface CallerInvokable {
   String invoke(String... args);
